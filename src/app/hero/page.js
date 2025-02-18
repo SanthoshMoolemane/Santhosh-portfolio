@@ -69,7 +69,7 @@ const Hero = () => {
             </h2>
           </div>
           <Image
-            src="/images/hero.png"
+            src="/Santhosh-portfolio/images/hero.png"
             alt="Hero"
             width="120"
             height="120"

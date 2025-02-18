@@ -35,7 +35,7 @@ const ProjectCard = ({ project }) => {
       {/* Project Image */}
       <div className="relative w-full overflow-hidden rounded-md">
         <Image
-          src={`/images/${project.imageUrl}`}
+          src={`/Santhosh-portfolio/images/${project.imageUrl}`}
           alt={`${project.title} preview`}
           className="w-full aspect-[16/9] object-cover"
           width={600}
