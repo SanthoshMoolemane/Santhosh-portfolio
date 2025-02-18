@@ -4,7 +4,7 @@ const nextConfig = {
   distDir: "out",
   trailingSlash: true,
   basePath: "/Santhosh-portfolio",
-  assetPrefix: "/Santhosh-portfolio",
+  assetPrefix: "/Santhosh-portfolio/",
   images: {
     unoptimized: true,
   },
